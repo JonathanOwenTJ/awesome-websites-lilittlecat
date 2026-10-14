@@ -17,6 +17,13 @@ A curated list of awesome websites.
 
 ## Design
 
+- [NailMoodLab](https://nailmoodlab.com/) - Nail-design references and AI style previews; generation requires sign-in and usage credits.
+
+## Reference
+
+- [Ajun Industry](https://ajun-industry.packscena.com/) - Chinese-language industry-chain reference library with illustrated explainers and company relationships.
+- [SubAtlas](https://subatlas.packscena.com/) - Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions.
+
 ## Tools
 
 ### Chrome Extensions
