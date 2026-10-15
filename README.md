@@ -18,6 +18,10 @@ A curated list of awesome websites.
 ## Design
 
 - [NailMoodLab](https://nailmoodlab.com/) - Nail-design references and AI style previews; generation requires sign-in and usage credits.
+- [LogoMovo](https://logomovo.com/) - AI logo studio with public design references; generation requires sign-in and payment.
+- [PackScena](https://packscena.com/) - AI product-photo backgrounds and lifestyle scenes; the current trial requires invitation, sign-in and an allowance.
+- [LookScene](https://lookscene.packscena.com/) - AI hairstyle, outfit and scene previews; the current trial requires invitation, sign-in and credits.
+- [DishVivid](https://dishvivid.com/) - Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.
 
 ## Reference
 
@@ -26,6 +30,8 @@ A curated list of awesome websites.
 
 ## Tools
 
+- [ResumePlot](https://resumeplot.com/) - Bilingual local resume editing with PDF and JSON export; optional AI, cloud saving and sharing require an account.
+- [AI Lab](https://ailab.packscena.com/) - Chinese browser utility hub with basic image compression and local text tools; advanced compression requires sign-in and points.
 ### Chrome Extensions
 
 - [Simple Outliner](https://chrome.google.com/webstore/detail/simple-outliner-%E6%99%BA%E8%83%BD%E7%BD%91%E9%A1%B5%E5%A4%A7%E7%BA%B2/ppdjhggfcaenclmimmdigbcglfoklgaf) - Displays a table of contents for every web page, making it easier to read/navigate long articles, documentations and online books.
